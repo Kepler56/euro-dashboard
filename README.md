@@ -12,7 +12,7 @@ This project involves scraping data from [FBref](https://fbref.com/en/) and [Wik
 websites to gather comprehensive information about the **UEFA European Championship** from the year 2000 to 2020. The collected data is then used to create a dynamic 
 and interactive Streamlit dashboard, showcasing KPIs and other relevant statistics about the competition. The primary objective of this
 project is to provide insightful visualizations of the UEFA European Championship, making it easier for football enthusiasts, and curious people 
-to explore and analyze the data.
+to explore and analyze the data. You can find the site [here](https://euro-dashboard.streamlit.app/). Its best to look at the app on large screens. 
 
 ### Technologies used
 - Python
