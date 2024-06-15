@@ -1,6 +1,6 @@
 <p align="center">
    <br/>
-   <a href="https://next-auth.js.org" target="_blank"><img width="150px" src="https://www.avisia.fr/wp-content/uploads/2018/01/avisia-favicon.png" /></a>
+   <a href="" target="_blank"><img width="150px" src="https://m.media-amazon.com/images/I/51VZt9wgAxL._AC_UF1000,1000_QL80_.jpg" /></a>
    <h3 align="center">EURO Dashboard</h3>
    <p align="center">
      UEFA Euro Championship Data Scraping and Dashboard Project
