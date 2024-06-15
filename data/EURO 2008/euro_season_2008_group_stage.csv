@@ -1,0 +1,25 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+1.0,Sat,2008-06-07,18:00,Switzerland ch,0–1,cz Czechia,39730.0,St. Jakob-Park,Roberto Rosetti
+1.0,Sat,2008-06-07,20:45,Portugal pt,2–0,tr Türkiye,29106.0,Stade de Genève,Herbert Fandel
+1.0,Sun,2008-06-08,18:00,Austria at,0–1,hr Croatia,51428.0,Ernst-Happel-Stadion,Pieter Vink
+1.0,Sun,2008-06-08,20:45,Germany de,2–0,pl Poland,30000.0,Wörthersee Stadion,Tom Henning Øvrebø
+1.0,Mon,2008-06-09,18:00,Romania ro,0–0,fr France,30585.0,Stadion Letzigrund,Manuel Mejuto
+1.0,Mon,2008-06-09,20:45,Netherlands nl,3–0,it Italy,30777.0,Stade de Suisse Wankdorf Bern,Peter Frojdfeldt
+1.0,Tue,2008-06-10,18:00,Spain es,4–1,ru Russia,30772.0,Tivoli Stadion Tirol,Konrad Plautz
+1.0,Tue,2008-06-10,20:45,Greece gr,0–2,se Sweden,31063.0,Red Bull Arena,Massimo Busacca
+2.0,Wed,2008-06-11,18:00,Czechia cz,1–3,pt Portugal,29016.0,Stade de Genève,Kyros Vassaras
+2.0,Wed,2008-06-11,20:45,Switzerland ch,1–2,tr Türkiye,39730.0,St. Jakob-Park,Ľuboš Micheľ
+2.0,Thu,2008-06-12,18:00,Croatia hr,2–1,de Germany,30461.0,Wörthersee Stadion,Frank De Bleeckere
+2.0,Thu,2008-06-12,20:45,Austria at,1–1,pl Poland,51428.0,Ernst-Happel-Stadion,Howard Webb
+2.0,Fri,2008-06-13,18:00,Italy it,1–1,ro Romania,30585.0,Stadion Letzigrund,Tom Henning Øvrebø
+2.0,Fri,2008-06-13,20:45,Netherlands nl,4–1,fr France,30777.0,Stade de Suisse Wankdorf Bern,Herbert Fandel
+2.0,Sat,2008-06-14,18:00,Sweden se,1–2,es Spain,30772.0,Tivoli Stadion Tirol,Pieter Vink
+2.0,Sat,2008-06-14,20:45,Greece gr,0–1,ru Russia,31063.0,Red Bull Arena,Roberto Rosetti
+3.0,Sun,2008-06-15,20:45,Switzerland ch,2–0,pt Portugal,39730.0,St. Jakob-Park,Konrad Plautz
+3.0,Sun,2008-06-15,20:45,Türkiye tr,3–2,cz Czechia,29016.0,Stade de Genève,Peter Frojdfeldt
+3.0,Mon,2008-06-16,20:45,Austria at,0–1,de Germany,51428.0,Ernst-Happel-Stadion,Manuel Mejuto
+3.0,Mon,2008-06-16,20:45,Poland pl,0–1,hr Croatia,30461.0,Wörthersee Stadion,Kyros Vassaras
+3.0,Tue,2008-06-17,20:45,France fr,0–2,it Italy,30585.0,Stadion Letzigrund,Ľuboš Micheľ
+3.0,Tue,2008-06-17,20:45,Netherlands nl,2–0,ro Romania,30777.0,Stade de Suisse Wankdorf Bern,Massimo Busacca
+3.0,Wed,2008-06-18,20:45,Russia ru,2–0,se Sweden,30772.0,Tivoli Stadion Tirol,Frank De Bleeckere
+3.0,Wed,2008-06-18,20:45,Greece gr,1–2,es Spain,30883.0,Red Bull Arena,Howard Webb

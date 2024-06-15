@@ -1,0 +1,37 @@
+Round,Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+Group stage,1.0,Fri,2016-06-10,21:00,France fr,2–1,ro Romania,75113.0,Stade de France,Viktor Kassai
+Group stage,1.0,Sat,2016-06-11,15:00,Albania al,0–1,ch Switzerland,33805.0,Stade Bollaert-Delelis (Neutral Site),Carlos Velasco
+Group stage,1.0,Sat,2016-06-11,18:00,Wales wls,2–1,sk Slovakia,37831.0,Stade Matmut-Atlantique (Neutral Site),Svein Oddvar Moen
+Group stage,1.0,Sat,2016-06-11,21:00,England eng,1–1,ru Russia,62343.0,Orange Vélodrome (Neutral Site),Nicola Rizzoli
+Group stage,1.0,Sun,2016-06-12,15:00,Türkiye tr,0–1,hr Croatia,43842.0,Parc des Princes (Neutral Site),Jonas Eriksson
+Group stage,1.0,Sun,2016-06-12,18:00,Poland pl,1–0,nir Northern Ireland,33742.0,Stade de Nice (Neutral Site),Ovidiu Hațegan
+Group stage,1.0,Sun,2016-06-12,21:00,Germany de,2–0,ua Ukraine,43035.0,Stade Pierre-Mauroy (Neutral Site),Martin Atkinson
+Group stage,1.0,Mon,2016-06-13,15:00,Spain es,1–0,cz Czechia,29400.0,Stadium Municipal (Neutral Site),Szymon Marciniak
+Group stage,1.0,Mon,2016-06-13,18:00,Rep. of Ireland ie,1–1,se Sweden,73419.0,Stade de France (Neutral Site),Milorad Mažić
+Group stage,1.0,Mon,2016-06-13,21:00,Belgium be,0–2,it Italy,55408.0,Groupama Stadium (Neutral Site),Mark Clattenburg
+Group stage,1.0,Tue,2016-06-14,18:00,Austria at,0–2,hu Hungary,34424.0,Stade Matmut-Atlantique (Neutral Site),Clément Turpin
+Group stage,1.0,Tue,2016-06-14,21:00,Portugal pt,1–1,is Iceland,38742.0,Stade Geoffroy-Guichard (Neutral Site),Cüneyt Çakιr
+Group stage,2.0,Wed,2016-06-15,15:00,Russia ru,1–2,sk Slovakia,38989.0,Stade Pierre-Mauroy (Neutral Site),Damir Skomina
+Group stage,2.0,Wed,2016-06-15,18:00,Romania ro,1–1,ch Switzerland,43576.0,Parc des Princes (Neutral Site),Sergey Karasev
+Group stage,2.0,Wed,2016-06-15,21:00,France fr,2–0,al Albania,63670.0,Orange Vélodrome,William Collum
+Group stage,2.0,Thu,2016-06-16,15:00,England eng,2–1,wls Wales,34033.0,Stade Bollaert-Delelis (Neutral Site),Felix Brych
+Group stage,2.0,Thu,2016-06-16,18:00,Ukraine ua,0–2,nir Northern Ireland,51043.0,Groupama Stadium (Neutral Site),Pavel Královec
+Group stage,2.0,Thu,2016-06-16,21:00,Germany de,0–0,pl Poland,73648.0,Stade de France (Neutral Site),Björn Kuipers
+Group stage,2.0,Fri,2016-06-17,15:00,Italy it,1–0,se Sweden,29600.0,Stadium Municipal (Neutral Site),Viktor Kassai
+Group stage,2.0,Fri,2016-06-17,18:00,Czechia cz,2–2,hr Croatia,38376.0,Stade Geoffroy-Guichard (Neutral Site),Mark Clattenburg
+Group stage,2.0,Fri,2016-06-17,21:00,Spain es,3–0,tr Türkiye,33409.0,Stade de Nice (Neutral Site),Milorad Mažić
+Group stage,2.0,Sat,2016-06-18,15:00,Belgium be,3–0,ie Rep. of Ireland,39493.0,Stade Matmut-Atlantique (Neutral Site),Cüneyt Çakιr
+Group stage,2.0,Sat,2016-06-18,18:00,Iceland is,1–1,hu Hungary,60842.0,Orange Vélodrome (Neutral Site),Sergey Karasev
+Group stage,2.0,Sat,2016-06-18,21:00,Portugal pt,0–0,at Austria,44291.0,Parc des Princes (Neutral Site),Nicola Rizzoli
+Group stage,3.0,Sun,2016-06-19,21:00,Romania ro,0–1,al Albania,49752.0,Groupama Stadium (Neutral Site),Pavel Královec
+Group stage,3.0,Sun,2016-06-19,21:00,Switzerland ch,0–0,fr France,45616.0,Stade Pierre-Mauroy,Damir Skomina
+Group stage,3.0,Mon,2016-06-20,21:00,Slovakia sk,0–0,eng England,39051.0,Stade Geoffroy-Guichard (Neutral Site),Carlos Velasco
+Group stage,3.0,Mon,2016-06-20,21:00,Russia ru,0–3,wls Wales,28840.0,Stadium Municipal (Neutral Site),Jonas Eriksson
+Group stage,3.0,Tue,2016-06-21,18:00,Northern Ireland nir,0–1,de Germany,44125.0,Parc des Princes (Neutral Site),Clément Turpin
+Group stage,3.0,Tue,2016-06-21,18:00,Ukraine ua,0–1,pl Poland,58874.0,Orange Vélodrome (Neutral Site),Svein Oddvar Moen
+Group stage,3.0,Tue,2016-06-21,21:00,Croatia hr,2–1,es Spain,37245.0,Stade Matmut-Atlantique (Neutral Site),Björn Kuipers
+Group stage,3.0,Tue,2016-06-21,21:00,Czechia cz,0–2,tr Türkiye,32836.0,Stade Bollaert-Delelis (Neutral Site),William Collum
+Group stage,3.0,Wed,2016-06-22,18:00,Iceland is,2–1,at Austria,55514.0,Stade de France (Neutral Site),Szymon Marciniak
+Group stage,3.0,Wed,2016-06-22,18:00,Hungary hu,3–3,pt Portugal,55514.0,Groupama Stadium (Neutral Site),Martin Atkinson
+Group stage,3.0,Wed,2016-06-22,21:00,Italy it,0–1,ie Rep. of Ireland,44268.0,Stade Pierre-Mauroy (Neutral Site),Ovidiu Hațegan
+Group stage,3.0,Wed,2016-06-22,21:00,Sweden se,0–1,be Belgium,34011.0,Stade de Nice (Neutral Site),Felix Brych

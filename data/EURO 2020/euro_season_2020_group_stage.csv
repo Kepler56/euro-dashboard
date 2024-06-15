@@ -1,0 +1,37 @@
+Round,Wk,Day,Date,Time,Home,xG,Score,xG.1,Away,Attendance,Venue,Referee
+Group stage,1.0,Fri,2021-06-11,21:00,Türkiye tr,0.6,0–3,1.9,it Italy,12916.0,Stadio Olimpico (Neutral Site),Danny Makkelie
+Group stage,1.0,Sat,2021-06-12,17:00,Wales wls,0.4,1–1,2.1,ch Switzerland,8782.0,Bakı Olimpiya Stadionu (Neutral Site),Clément Turpin
+Group stage,1.0,Sat,2021-06-12,18:00,Denmark dk,1.8,0–1,0.3,fi Finland,13790.0,Parken (Neutral Site),Anthony Taylor
+Group stage,1.0,Sat,2021-06-12,22:00,Belgium be,1.4,3–0,0.3,ru Russia,26264.0,Gazprom Arena (Neutral Site),Antonio Matéu Lahoz
+Group stage,1.0,Sun,2021-06-13,14:00,England eng,1.5,1–0,0.4,hr Croatia,18497.0,Wembley Stadium (Neutral Site),Daniele Orsato
+Group stage,1.0,Sun,2021-06-13,19:00,Austria at,2.0,3–1,0.6,mk N. Macedonia,9082.0,Arena Naţională (Neutral Site),Andreas Ekberg
+Group stage,1.0,Sun,2021-06-13,21:00,Netherlands nl,1.5,3–2,0.5,ua Ukraine,15837.0,Johan Cruyff ArenA (Neutral Site),Felix Brych
+Group stage,1.0,Mon,2021-06-14,14:00,Scotland sct,1.9,0–2,1.1,cz Czechia,9847.0,Hampden Park (Neutral Site),Daniel Siebert
+Group stage,1.0,Mon,2021-06-14,17:00,Poland pl,1.4,1–2,0.4,sk Slovakia,12862.0,Gazprom Arena (Neutral Site),Ovidiu Hațegan
+Group stage,1.0,Mon,2021-06-14,21:00,Spain es,2.3,0–0,1.2,se Sweden,10559.0,Estadio La Cartuja de Sevilla (Neutral Site),Slavko Vinčič
+Group stage,1.0,Tue,2021-06-15,18:00,Hungary hu,0.2,0–3,2.5,pt Portugal,55662.0,Puskás Aréna (Neutral Site),Cüneyt Çakιr
+Group stage,1.0,Tue,2021-06-15,21:00,France fr,0.3,1–0,0.9,de Germany,13000.0,Allianz Arena (Neutral Site),Carlos del Cerro
+Group stage,2.0,Wed,2021-06-16,16:00,Finland fi,0.8,0–1,1.0,ru Russia,24540.0,Gazprom Arena (Neutral Site),Danny Makkelie
+Group stage,2.0,Wed,2021-06-16,20:00,Türkiye tr,1.2,0–2,3.5,wls Wales,19762.0,Bakı Olimpiya Stadionu (Neutral Site),Artur Soares Dias
+Group stage,2.0,Wed,2021-06-16,21:00,Italy it,2.7,3–0,0.2,ch Switzerland,12445.0,Stadio Olimpico (Neutral Site),Sergey Karasev
+Group stage,2.0,Thu,2021-06-17,16:00,Ukraine ua,3.4,2–1,1.3,mk N. Macedonia,10001.0,Arena Naţională (Neutral Site),Fernando Rapallini
+Group stage,2.0,Thu,2021-06-17,18:00,Denmark dk,1.7,1–2,0.9,be Belgium,23395.0,Parken (Neutral Site),Björn Kuipers
+Group stage,2.0,Thu,2021-06-17,21:00,Netherlands nl,3.1,2–0,0.7,at Austria,15243.0,Johan Cruyff ArenA (Neutral Site),Orel Grinfeeld
+Group stage,2.0,Fri,2021-06-18,14:00,Sweden se,1.7,1–0,0.5,sk Slovakia,11525.0,Gazprom Arena (Neutral Site),Daniel Siebert
+Group stage,2.0,Fri,2021-06-18,17:00,Croatia hr,0.9,1–1,1.6,cz Czechia,5607.0,Hampden Park (Neutral Site),Carlos del Cerro
+Group stage,2.0,Fri,2021-06-18,20:00,England eng,1.4,0–0,0.6,sct Scotland,20306.0,Wembley Stadium (Neutral Site),Antonio Matéu Lahoz
+Group stage,2.0,Sat,2021-06-19,15:00,Hungary hu,0.4,1–1,2.0,fr France,55998.0,Puskás Aréna (Neutral Site),Michael Oliver
+Group stage,2.0,Sat,2021-06-19,18:00,Portugal pt,2.0,2–4,2.6,de Germany,12926.0,Allianz Arena (Neutral Site),Anthony Taylor
+Group stage,2.0,Sat,2021-06-19,21:00,Spain es,2.9,1–1,1.3,pl Poland,11742.0,Estadio La Cartuja de Sevilla (Neutral Site),Daniele Orsato
+Group stage,3.0,Sun,2021-06-20,18:00,Italy it,2.0,1–0,0.4,wls Wales,11541.0,Stadio Olimpico (Neutral Site),Ovidiu Hațegan
+Group stage,3.0,Sun,2021-06-20,20:00,Switzerland ch,2.1,3–1,1.2,tr Türkiye,17138.0,Bakı Olimpiya Stadionu (Neutral Site),Slavko Vinčič
+Group stage,3.0,Mon,2021-06-21,18:00,N. Macedonia mk,1.1,0–3,3.1,nl Netherlands,15227.0,Johan Cruyff ArenA (Neutral Site),István Kovács
+Group stage,3.0,Mon,2021-06-21,19:00,Ukraine ua,0.3,0–1,1.6,at Austria,10472.0,Arena Naţională (Neutral Site),Cüneyt Çakιr
+Group stage,3.0,Mon,2021-06-21,21:00,Russia ru,1.1,1–4,2.1,dk Denmark,23644.0,Parken (Neutral Site),Clément Turpin
+Group stage,3.0,Mon,2021-06-21,22:00,Finland fi,0.4,0–2,1.6,be Belgium,18545.0,Gazprom Arena (Neutral Site),Felix Brych
+Group stage,3.0,Tue,2021-06-22,20:00,Czechia cz,0.3,0–1,1.5,eng England,19104.0,Wembley Stadium (Neutral Site),Artur Soares Dias
+Group stage,3.0,Tue,2021-06-22,20:00,Croatia hr,1.0,3–1,1.4,sct Scotland,9896.0,Hampden Park (Neutral Site),Fernando Rapallini
+Group stage,3.0,Wed,2021-06-23,17:00,Sweden se,1.1,3–2,1.9,pl Poland,14252.0,Gazprom Arena (Neutral Site),Michael Oliver
+Group stage,3.0,Wed,2021-06-23,18:00,Slovakia sk,0.1,0–5,3.4,es Spain,11204.0,Estadio La Cartuja de Sevilla (Neutral Site),Björn Kuipers
+Group stage,3.0,Wed,2021-06-23,21:00,Germany de,2.2,2–2,0.8,hu Hungary,12413.0,Allianz Arena (Neutral Site),Sergey Karasev
+Group stage,3.0,Wed,2021-06-23,21:00,Portugal pt,1.9,2–2,1.9,fr France,54886.0,Puskás Aréna (Neutral Site),Antonio Matéu Lahoz

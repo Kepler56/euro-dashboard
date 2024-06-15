@@ -1,0 +1,25 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+1.0,Fri,2012-06-08,18:00,Poland pl,1–1,gr Greece,56070.0,Stadion Narodowy,Carlos Velasco
+1.0,Fri,2012-06-08,20:45,Russia ru,4–1,cz Czechia,40803.0,Stadion Miejski,Howard Webb
+1.0,Sat,2012-06-09,19:00,Netherlands nl,0–1,dk Denmark,35923.0,Oblasny SportKomplex Metalist,Damir Skomina
+1.0,Sat,2012-06-09,21:45,Germany de,1–0,pt Portugal,32990.0,L'viv Arena,Stéphane Lannoy
+1.0,Sun,2012-06-10,18:00,Spain es,1–1,it Italy,38869.0,Stadion Energa Gdańsk,Viktor Kassai
+1.0,Sun,2012-06-10,20:45,Rep. of Ireland ie,1–3,hr Croatia,39550.0,INEA stadion,Björn Kuipers
+1.0,Mon,2012-06-11,19:00,France fr,1–1,eng England,47400.0,Donbass Arena,Nicola Rizzoli
+1.0,Mon,2012-06-11,21:45,Ukraine ua,2–1,se Sweden,64290.0,NSK Olimpijs'kyj,Cüneyt Çakιr
+2.0,Tue,2012-06-12,18:00,Greece gr,1–2,cz Czechia,41105.0,Stadion Miejski,Stéphane Lannoy
+2.0,Tue,2012-06-12,20:45,Poland pl,1–1,ru Russia,55920.0,Stadion Narodowy,Wolfgang Stark
+2.0,Wed,2012-06-13,19:00,Denmark dk,2–3,pt Portugal,31840.0,L'viv Arena,Craig Thomson
+2.0,Wed,2012-06-13,21:45,Netherlands nl,1–2,de Germany,37750.0,Oblasny SportKomplex Metalist,Jonas Eriksson
+2.0,Thu,2012-06-14,18:00,Italy it,1–1,hr Croatia,37096.0,INEA stadion,Howard Webb
+2.0,Thu,2012-06-14,20:45,Spain es,4–0,ie Rep. of Ireland,39150.0,Stadion Energa Gdańsk,Pedro Proença
+2.0,Fri,2012-06-15,19:00,Ukraine ua,0–2,fr France,48000.0,Donbass Arena,Björn Kuipers
+2.0,Fri,2012-06-15,22:00,Sweden se,2–3,eng England,64640.0,Donbass Arena,Damir Skomina
+3.0,Sat,2012-06-16,20:45,Czechia cz,1–0,pl Poland,41480.0,Stadion Miejski,Craig Thomson
+3.0,Sat,2012-06-16,20:45,Greece gr,1–0,ru Russia,55614.0,Stadion Narodowy,Jonas Eriksson
+3.0,Sun,2012-06-17,21:45,Portugal pt,2–1,nl Netherlands,37445.0,Oblasny SportKomplex Metalist,Nicola Rizzoli
+3.0,Sun,2012-06-17,21:45,Denmark dk,1–2,de Germany,32990.0,L'viv Arena,Carlos Velasco
+3.0,Mon,2012-06-18,20:45,Italy it,2–0,ie Rep. of Ireland,38794.0,INEA stadion,Cüneyt Çakιr
+3.0,Mon,2012-06-18,20:45,Croatia hr,0–1,es Spain,39076.0,Stadion Energa Gdańsk,Wolfgang Stark
+3.0,Tue,2012-06-19,21:45,Sweden se,2–0,fr France,63010.0,NSK Olimpijs'kyj,Pedro Proença
+3.0,Tue,2012-06-19,21:45,England eng,1–0,ua Ukraine,48700.0,Donbass Arena,Viktor Kassai

@@ -1,0 +1,25 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+1.0,Sat,2004-06-12,17:00,Portugal pt,1–2,gr Greece,48761.0,Estádio Do Dragão,Pierluigi Collina
+1.0,Sat,2004-06-12,19:45,Spain es,1–0,ru Russia,28182.0,Estádio Do Algarve,Urs Meier
+1.0,Sun,2004-06-13,17:00,Switzerland ch,0–0,hr Croatia,24090.0,Estádio Dr. Magalhães Pessoa,Lucílio Cardoso Cortez Batista
+1.0,Sun,2004-06-13,19:45,France fr,2–1,eng England,62487.0,Estádio do Sport Lisboa e Benfica,Markus Merk
+1.0,Mon,2004-06-14,17:00,Denmark dk,0–0,it Italy,19595.0,Estádio Dom Afonso Henriques,Manuel Mejuto
+1.0,Mon,2004-06-14,19:45,Sweden se,5–0,bg Bulgaria,31652.0,Estádio José Alvalade,Michael Riley
+1.0,Tue,2004-06-15,17:00,Czechia cz,2–1,lv Latvia,21744.0,Estádio Municipal de Aveiro,Gilles Veissière
+1.0,Tue,2004-06-15,19:45,Germany de,1–1,nl Netherlands,48197.0,Estádio Do Dragão,Anders Frisk
+2.0,Wed,2004-06-16,17:00,Greece gr,1–1,es Spain,25444.0,Estádio do Bessa Século XXI,Ľuboš Micheľ
+2.0,Wed,2004-06-16,19:45,Russia ru,0–2,pt Portugal,59273.0,Estádio do Sport Lisboa e Benfica,Terje Hauge
+2.0,Thu,2004-06-17,17:00,England eng,3–0,ch Switzerland,28214.0,Estádio EFAPEL,Valentin Ivanov
+2.0,Thu,2004-06-17,19:45,Croatia hr,2–2,fr France,29160.0,Estádio Dr. Magalhães Pessoa,Kim Milton Nielsen
+2.0,Fri,2004-06-18,17:00,Bulgaria bg,0–2,dk Denmark,24131.0,Estádio Municipal de Braga,Lucílio Cardoso Cortez Batista
+2.0,Fri,2004-06-18,19:45,Italy it,1–1,se Sweden,44926.0,Estádio Do Dragão,Urs Meier
+2.0,Sat,2004-06-19,17:00,Latvia lv,0–0,de Germany,22344.0,Estádio do Bessa Século XXI,Michael Riley
+2.0,Sat,2004-06-19,19:45,Netherlands nl,2–3,cz Czechia,29935.0,Estádio Municipal de Aveiro,Manuel Mejuto
+3.0,Sun,2004-06-20,19:45,Russia ru,2–1,gr Greece,24347.0,Estádio Do Algarve,Gilles Veissière
+3.0,Sun,2004-06-20,19:45,Spain es,0–1,pt Portugal,47491.0,Estádio José Alvalade,Anders Frisk
+3.0,Mon,2004-06-21,19:45,Switzerland ch,1–3,fr France,28111.0,Estádio EFAPEL,Ľuboš Micheľ
+3.0,Mon,2004-06-21,19:45,Croatia hr,2–4,eng England,57047.0,Estádio do Sport Lisboa e Benfica,Pierluigi Collina
+3.0,Tue,2004-06-22,19:45,Italy it,2–1,bg Bulgaria,16002.0,Estádio Dom Afonso Henriques,Valentin Ivanov
+3.0,Tue,2004-06-22,19:45,Denmark dk,2–2,se Sweden,26115.0,Estádio do Bessa Século XXI,Markus Merk
+3.0,Wed,2004-06-23,19:45,Germany de,1–2,cz Czechia,46849.0,Estádio José Alvalade,Terje Hauge
+3.0,Wed,2004-06-23,19:45,Netherlands nl,3–0,lv Latvia,27904.0,Estádio Municipal de Braga,Kim Milton Nielsen

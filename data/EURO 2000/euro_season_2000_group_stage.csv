@@ -1,0 +1,25 @@
+Wk,Day,Date,Time,Home,Score,Away,Attendance,Venue,Referee
+1.0,Sat,2000-06-10,20:45,Belgium be,2–1,se Sweden,46700.0,Stade Roi Baudouin,Markus Merk
+1.0,Sun,2000-06-11,14:30,Türkiye tr,1–2,it Italy,22500.0,GelreDome,Hugh Dallas
+1.0,Sun,2000-06-11,18:00,France fr,3–0,dk Denmark,28100.0,Jan Breydelstadion,Günter Benkö
+1.0,Sun,2000-06-11,20:45,Netherlands nl,1–0,cz Czechia,50800.0,Johan Cruyff ArenA,Pierluigi Collina
+1.0,Mon,2000-06-12,18:00,Germany de,1–1,ro Romania,28500.0,Stade Maurice Dufrasne,Kim Milton Nielsen
+1.0,Mon,2000-06-12,20:45,Portugal pt,3–2,eng England,31500.0,Philips Stadion,Anders Frisk
+1.0,Tue,2000-06-13,18:00,Spain es,0–1,no Norway,41000.0,Stadion Feijenoord,Gamal Al Ghandour
+1.0,Tue,2000-06-13,20:45,Yugoslavia rs,3–3,si Slovenia,18500.0,Stade du Pays de Charleroi,Vítor Melo
+2.0,Wed,2000-06-14,20:45,Italy it,2–0,be Belgium,44500.0,Stade Roi Baudouin,José García Aranda
+2.0,Thu,2000-06-15,20:45,Sweden se,0–0,tr Türkiye,27000.0,Philips Stadion,Dick Jol
+2.0,Fri,2000-06-16,18:00,Czechia cz,1–2,fr France,27243.0,Jan Breydelstadion,Graham Poll
+2.0,Fri,2000-06-16,20:45,Denmark dk,0–3,nl Netherlands,51425.0,Stadion Feijenoord,Urs Meier
+2.0,Sat,2000-06-17,18:00,Romania ro,0–1,pt Portugal,28400.0,GelreDome,Gilles Veissière
+2.0,Sat,2000-06-17,20:45,England eng,1–0,de Germany,29000.0,Stade du Pays de Charleroi,Pierluigi Collina
+2.0,Sun,2000-06-18,18:00,Slovenia si,1–2,es Spain,51300.0,Johan Cruyff ArenA,Markus Merk
+2.0,Sun,2000-06-18,20:45,Norway no,0–1,rs Yugoslavia,28750.0,Stade Maurice Dufrasne,Hugh Dallas
+3.0,Mon,2000-06-19,20:45,Türkiye tr,2–0,be Belgium,48000.0,Stade Roi Baudouin,Kim Milton Nielsen
+3.0,Mon,2000-06-19,20:45,Italy it,2–1,se Sweden,30000.0,Philips Stadion,Vítor Melo
+3.0,Tue,2000-06-20,20:45,Portugal pt,3–0,de Germany,44000.0,Stadion Feijenoord,Dick Jol
+3.0,Tue,2000-06-20,20:45,England eng,2–3,ro Romania,30000.0,Stade du Pays de Charleroi,Urs Meier
+3.0,Wed,2000-06-21,18:00,Slovenia si,0–0,no Norway,21000.0,GelreDome,Graham Poll
+3.0,Wed,2000-06-21,18:00,Yugoslavia rs,3–4,es Spain,26611.0,Jan Breydelstadion,Gilles Veissière
+3.0,Wed,2000-06-21,20:45,Denmark dk,0–2,cz Czechia,20000.0,Stade Maurice Dufrasne,Gamal Al Ghandour
+3.0,Wed,2000-06-21,20:45,France fr,2–3,nl Netherlands,50000.0,Johan Cruyff ArenA,Anders Frisk
