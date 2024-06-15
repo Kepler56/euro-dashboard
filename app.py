@@ -82,7 +82,7 @@ def getLeagueTableInformation(selected_year, field, field_text, field_color, ima
             max_element = df_league_table.loc[df_league_table[field].idxmax()]
             st.subheader(max_element.loc[field])
         with left:
-            st.markdown(f'<h5 style="color:black;">{max_element.loc['Nation']}</h5>', unsafe_allow_html=True)
+            st.markdown(max_element.loc['Nation'])
             if image_path != 'None':    
                 st.image(f"{IMAGES_FILE_PATH}{image_path}", width=50)
 
